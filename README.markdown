@@ -1,4 +1,4 @@
-# Sass Globbing Plugin
+# Sass Globbing Plugin (Doesn't work on Windows)
 
 Sass globbing allows you to import many sass or scss files in a single import statement.
 
